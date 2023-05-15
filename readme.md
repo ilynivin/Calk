@@ -22,7 +22,7 @@ There are 7 Operators in Python
 |Symbols|Fuctions|
 |-------|--------|
 |    +  |  Addition|
-|    -  |  ubtraction|
+|    -  |  Subtraction|
 |    *  |  Multiplication|
 |    /  |  Division|
 |    %  |  Modulus|
