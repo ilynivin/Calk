@@ -1,6 +1,6 @@
 import math
 
-print("\t Hello Welcome to Calk!")
+printf("\t Hello Welcome to Calk!")
 print("\t Read my doc page on Github  \n https://github.com/Nivin389/Calk#readme \n\tDont Fork me ! Give it a Star!")
 
 a = int(input("Enter Number A :"))
