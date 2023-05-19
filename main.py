@@ -1,5 +1,6 @@
 import math
 
+print("\t Hello Word\n")
 print("\t Hello Welcome to Calk!")
 print("\t Read my doc page on Github  \n https://github.com/Nivin389/Calk#readme \n\tDont Fork me ! Give it a Star!")
 
